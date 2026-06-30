@@ -11,4 +11,4 @@ Converts between Celsius and Fahrenheit.
 A food delivery app gives discounts based on coupon codes and order amount.
 
 ###MAD-LIBS
-Helps make a paragraph out of inputs 
+Helps make a paragraph out of inputs .
