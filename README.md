@@ -12,3 +12,6 @@ A food delivery app gives discounts based on coupon codes and order amount.
 
 ### MAD-LIBS
 Helps make a paragraph out of inputs .
+
+### Username Validator 
+A program which checks whether the username is valid according to the conditions. 
