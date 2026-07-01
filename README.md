@@ -18,3 +18,6 @@ A program which checks whether the username is valid according to the conditions
 
 ### CreditCardSlicer
 Helps with credit card number slicing with help of different indexing methods.
+
+### E-mail Slicer 
+Helps in differentiating email with username and domain with help of indexing.
