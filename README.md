@@ -4,7 +4,7 @@ A collection of beginner-friendly Python projects to practice core programming c
 
 ## 📁 Projects
 
-### Temperature Converter (`tempconversion.py`)
+### Temperature Converter 
 Converts between Celsius and Fahrenheit.
 
 ### Food Delivery Discount System
