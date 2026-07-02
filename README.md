@@ -24,3 +24,6 @@ Helps in differentiating email with username and domain with help of indexing.
 
 ### Multiplication table 
 Created a multiplication table using while loop. 
+
+### An Asterisk Rectangle 
+Made asterisk rectangle used nested loops.
