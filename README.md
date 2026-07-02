@@ -22,4 +22,5 @@ Helps with credit card number slicing with help of different indexing methods.
 ### E-mail Slicer 
 Helps in differentiating email with username and domain with help of indexing.
 
-### Multiplication table                                                                                                                  Created a multiplication table using while loop.
+### Multiplication table 
+Created a multiplication table using while loop. 
