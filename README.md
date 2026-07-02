@@ -27,3 +27,6 @@ Created a multiplication table using while loop.
 
 ### An Asterisk Rectangle 
 Made asterisk rectangle used nested loops.
+
+### Countdown 
+A countdown program using loops and format specifiers.
