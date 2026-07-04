@@ -1,4 +1,4 @@
-# Small Python Projects
+#🔹 Small Python Projects🔹
 
 A collection of beginner-friendly Python projects to practice core programming concepts.
 
