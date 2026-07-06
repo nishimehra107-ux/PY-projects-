@@ -30,3 +30,6 @@ Made asterisk rectangle used nested loops.
 
 ### Countdown 
 A countdown program using loops and format specifiers.
+
+### Shopping Cart System 
+A program which manages a shopping cart by allowing users to add items and view price.
