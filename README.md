@@ -36,3 +36,6 @@ A program which manages a shopping cart by allowing users to add items and view 
 
 ### Quiz Game
 A program with multiple questions with different options and the final score with help of python. 
+
+### Concession Stand Program
+This program shows menu and helps user to select items and show the total with the help of dictionaries.
