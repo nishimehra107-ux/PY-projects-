@@ -39,3 +39,6 @@ A program with multiple questions with different options and the final score wit
 
 ### Concession Stand Program
 This program shows menu and helps user to select items and show the total with the help of dictionaries.
+
+### Random Module Game
+Random number guesssing game by importing random module in python. 
