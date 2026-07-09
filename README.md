@@ -42,3 +42,6 @@ This program shows menu and helps user to select items and show the total with t
 
 ### Random Module Game
 Random number guesssing game by importing random module in python. 
+
+### Rock Paper Scissor Game
+ Game bytaking user input and random moldule.
