@@ -45,3 +45,6 @@ Random number guesssing game by importing random module in python.
 
 ### Rock Paper Scissor Game
  Game by taking user input and random moldule.
+
+### Dice program 
+Random dice printing program.
