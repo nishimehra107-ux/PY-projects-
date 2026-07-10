@@ -48,3 +48,7 @@ Random number guesssing game by importing random module in python.
 
 ### Dice program 
 Random dice printing program.
+
+### Encryption/ Decryption program
+from random and string module created a encryption and decryption of texts. 
+
