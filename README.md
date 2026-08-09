@@ -16,7 +16,7 @@ Helps make a paragraph out of inputs .
 ### Username Validator 
 A program which checks whether the username is valid according to the conditions. 
 
-### CreditCardSlicer
+### Credit Card Slicer
 Helps with credit card number slicing with help of different indexing methods.
 
 ### E-mail Slicer 
@@ -51,4 +51,8 @@ Random dice printing program.
 
 ### Encryption/ Decryption program
 from random and string module created a encryption and decryption of texts. 
+
+### Credit Card Validator 
+made credit card validator by giving input of credit card number. 
+
 
