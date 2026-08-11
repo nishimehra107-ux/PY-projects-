@@ -50,9 +50,13 @@ Random number guesssing game by importing random module in python.
 Random dice printing program.
 
 ### Encryption/ Decryption program
-from random and string module created a encryption and decryption of texts. 
+From random and string module created a encryption and decryption of texts. 
 
 ### Credit Card Validator 
-made credit card validator by giving input of credit card number. 
+Made credit card validator by giving input of credit card number. 
+
+### Banking program
+Made a banking program to show balance , withdraw and deposit money just like a bank .  
+
 
 
