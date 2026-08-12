@@ -56,7 +56,10 @@ From random and string module created a encryption and decryption of texts.
 Made credit card validator by giving input of credit card number. 
 
 ### Banking program
-Made a banking program to show balance , withdraw and deposit money just like a bank .  
+Made a banking program to show balance , withdraw and deposit money just like a bank .
+
+### Slot Machine
+Small slot machine game by entering amount and betting on it while accessing random emojis. 
 
 
 
