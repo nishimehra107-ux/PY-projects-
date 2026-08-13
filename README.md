@@ -61,5 +61,8 @@ Made a banking program to show balance , withdraw and deposit money just like a 
 ### Slot Machine
 Small slot machine game by entering amount and betting on it while accessing random emojis. 
 
+### Animal Inheritance Program
+Made inheritance program of animals using class variable and constructor. 
+
 
 
