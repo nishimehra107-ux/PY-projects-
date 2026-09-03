@@ -64,5 +64,8 @@ Small slot machine game by entering amount and betting on it while accessing ran
 ### Animal Inheritance Program
 Made inheritance program of animals using class variable and constructor. 
 
+### GPA projects 
+Using class objects, finding average gpa of students in class. 
+
 
 
